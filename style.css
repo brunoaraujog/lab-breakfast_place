@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+    font-weight: bold;
+  }
+  header nav {
+    display: inline;
+  }
+  body {
+    font-family: 'Libre Franklin', sans-serif;
+  }
+  #ih-logo{
+    width: 70px;
+    height: 70px;
+  }
+  .navbar a {
+      text-decoration: none;
+  }
+  .content h1 {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    /* font-size: large;
+    font-weight: bold; */
+  }
+   #intro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .wrapper {
+    width: 800px;
+    margin-left: 10%;
+  }
+  #intro p {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+  }
+  footer p {
+    text-align: center;
+  }
